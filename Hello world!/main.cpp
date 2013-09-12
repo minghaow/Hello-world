@@ -14,7 +14,7 @@ int main(int argc, const char * argv[])
 
     int a,b;
     cin >> a >> b;
-    cout << "Hello, World!\n" << a << " + " << b << " = " << a+b;
+    cout << "Hello, World!\n" << a << " + " << b << " = " << a+b << " -- Minghao --";
     return 0;
 }
 
