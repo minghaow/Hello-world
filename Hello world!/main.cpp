@@ -12,9 +12,13 @@ using namespace std;
 int main(int argc, const char * argv[])
 {
 
-    int a,b;
+    int a,b,c;
     cin >> a >> b;
     cout << "Hello, World!!!!!!!!\n" << a << " + " << b << " = " << a+b;
+<<<<<<< HEAD
+=======
+    cout << "Hello, World!\n" << a << " + " << b << " = " << a+b << " -- Minghao --";
+>>>>>>> 03782af56380bc51cf3e225abfba90c8fd52710e
     return 0;
 }
 
